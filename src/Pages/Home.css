@@ -1,0 +1,16 @@
+.custom-underline {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .custom-underline::after {
+    content: '';
+    position: absolute;
+    left: -2rem;
+    right: 0;
+    bottom: -7px; /* Adjust as needed */
+    height:3px; /* Adjust thickness */
+    background-color:#EB7150; /* Adjust color */
+    width: 11rem;
+  
+  }
