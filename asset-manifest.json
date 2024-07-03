@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-HABOT-App/static/css/main.65afefd1.css",
+    "main.js": "/React-HABOT-App/static/js/main.b64a8d38.js",
+    "static/js/453.3f847158.chunk.js": "/React-HABOT-App/static/js/453.3f847158.chunk.js",
+    "static/media/Banner.png": "/React-HABOT-App/static/media/Banner.bfd126ebef79a4f6dc5c.png",
+    "static/media/UTube.png": "/React-HABOT-App/static/media/UTube.f1277f5e6c3a3ad283f6.png",
+    "index.html": "/React-HABOT-App/index.html",
+    "main.65afefd1.css.map": "/React-HABOT-App/static/css/main.65afefd1.css.map",
+    "main.b64a8d38.js.map": "/React-HABOT-App/static/js/main.b64a8d38.js.map",
+    "453.3f847158.chunk.js.map": "/React-HABOT-App/static/js/453.3f847158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65afefd1.css",
+    "static/js/main.b64a8d38.js"
+  ]
+}
